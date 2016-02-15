@@ -8,5 +8,25 @@
         "id": 1420070400000,
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "id": 123,
+        "author": "Bef O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 1455533370283,
+        "author": "Random data",
+        "text": "ME!"
+    },
+    {
+        "id": 1455533490015,
+        "author": "Submit",
+        "text": "test"
+    },
+    {
+        "id": 1455533514054,
+        "author": "Clear me",
+        "text": "after"
     }
 ]
